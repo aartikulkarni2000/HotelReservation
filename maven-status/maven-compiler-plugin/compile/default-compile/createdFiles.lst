@@ -1,0 +1,9 @@
+com\example\hotelbooking\model\Booking.class
+com\example\hotelbooking\controller\WelcomeController.class
+com\example\hotelbooking\model\Room.class
+com\example\hotelbooking\HotelbookingApplication.class
+com\example\hotelbooking\model\Payment.class
+com\example\hotelbooking\model\Category.class
+com\example\hotelbooking\model\User.class
+com\example\hotelbooking\service\UserService.class
+com\example\hotelbooking\repository\UserRepository.class
